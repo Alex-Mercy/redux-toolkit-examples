@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "title": "sdfg",
+      "body": "typicode"
+    },
+    {
+      "id": 7,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 8,
+      "title": "fdhdfb",
+      "body": "typicode"
+    },
+    {
+      "id": 9,
+      "title": "cvcvn",
+      "body": "typicode"
+    },
+    {
+      "title": "cvnfdg",
+      "body": "sdg",
+      "id": 10
+    },
+    {
+      "title": "ctgb",
+      "body": "rv",
+      "id": 12
+    },
+    {
+      "title": "cvb",
+      "body": "sdsdv",
+      "id": 14
+    },
+    {
+      "title": "sdg",
+      "body": "sdg",
+      "id": 15
+    },
+    {
+      "title": "rv",
+      "body": "rv",
+      "id": 16
+    },
+    {
+      "title": "dfh",
+      "body": "dfh",
+      "id": 17
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
